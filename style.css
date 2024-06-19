@@ -51,7 +51,7 @@ button:focus {
   background-color: rgb(150,180,175);
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(128, 128, 128) inset;
 }
 
 #display-controls {
