@@ -40,7 +40,7 @@ button:focus {
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px sienna;
+  box-shadow: 10px 10px black;
 }
 
 /* Display + Stop/Start/Reset Controls */
@@ -102,7 +102,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid rgb(255,255,255);
+  border: 2px solid rgb(0,0,0);
   padding: 10px;
   border-radius: 10px;
   width: 48%;
